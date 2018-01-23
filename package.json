@@ -1,0 +1,28 @@
+{
+  "name": "ishiwupai",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "autoresponsive-react-native": "^1.0.9",
+    "mobx": "^3.1.9",
+    "mobx-react": "^4.1.8",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0",
+    "react-native-camera": "^0.9.0",
+    "react-native-deprecated-custom-components": "^0.1.0",
+    "react-native-easy-toast": "^1.0.5",
+    "react-native-scrollable-tab-view": "^0.7.3",
+    "react-navigation": "^1.0.0-beta.5"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-react-native-stage-0": "^1.0.1"
+  },
+  "description": "如果你通过外链来到这个页面，本人要先表示感谢！项目其实很早就开始了，基本是自己学习`React Native`，并整合`Redux`和`MobX`的简单记录。正如你所见，项目并没有继续更新了，没有太多外因，权且理解为自己把重心稍微偏向了生活其他方面上。所以随着版本更新，项目是否能完美运行也是未知数，大家有兴趣可以按需查看源码。再次感谢各位的支持！感谢开源！",
+  "main": "iShiWuPai.js",
+  "author": "",
+  "license": "ISC"
+}
